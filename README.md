@@ -1,5 +1,7 @@
 # wifiswitch
 
+a simple app for sending get requests to thingspake in other to switch a relay from anywhere in the world so far its connected to the internet
+
 A new Flutter project.
 
 ## Getting Started
